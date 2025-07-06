@@ -45,11 +45,11 @@
 :
 
 📌 Note
-This isn’t a new GitHub account — but some of my earlier work lives in private repos, under NDA agreements, or was done through client platforms where public contributions weren't possible.
+This isn’t a new GitHub account but some of my earlier work lives in private repos, under NDA agreements, or was done through client platforms where public contributions weren't possible.
 
 Now, I’m making a conscious shift to build and share more work in public, including open-source projects, case studies, and experimental builds.
 
-More is coming — stay tuned.
+More is coming stay tuned.
 
 
 
