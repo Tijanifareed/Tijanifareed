@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fareed Tijani 👋</h1>
-<h3 align="center">Full-Stack Engineer | Spring Boot, Django, React, Flutter, Nodejs</h3>
+<h3 align="center">Full-Stack Software Engineer | Spring Boot, Django, React, Flutter, Nodejs</h3>
 
 ---
 
