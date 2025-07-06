@@ -38,7 +38,7 @@
 
 - Building accessible, scalable tools that solve real-world problems
 - Learning more about DevOps, system design, and product leadership
-- Contributing to open-source projects and mentoring newer devs
+- Contributing to Real world Software Solutions
 
 ---
 
