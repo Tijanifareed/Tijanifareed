@@ -63,4 +63,4 @@ More is coming stay tuned.
 
 _“I didn’t get here through connections or pedigree. I earned my way by learning fast, building fast, and delivering outcomes.”_
 
-_If your team needs an engineer who’ll contribute in **Week 1, not Month 3** — let’s talk._
+_If your team needs an engineer who’ll contribute in **Week 1, not Month 3** let’s talk._
