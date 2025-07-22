@@ -9,7 +9,7 @@
 - **Backend**: Java/Spring Boot, Python/Django, Javascript/Nodejs
 - **Frontend**: React, Tailwind CSS, TypeScript
 - **Mobile**: Flutter (Cross-Platform)
-- **DevOps/Infra**: AWS (EC2, S3), Docker, Firebase
+- **DevOps/Infra**: Docker, Firebase
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Testing**: Pytest, JUnit, Postman, Jest
 - **Practices**: Clean Architecture, Agile/CI, TDD
