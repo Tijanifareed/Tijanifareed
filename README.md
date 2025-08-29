@@ -6,12 +6,12 @@
 🚀 I'm a full-stack engineer with 3+ years of experience building scalable, outcome-driven products across mobile, web, and backend systems.
 
 💻 I specialize in:
-- **Backend**: Java/Spring Boot, Python/Django, Javascript/Nodejs
-- **Frontend**: React, Tailwind CSS, TypeScript
+- **Backend**: Java/Spring Boot, Python/Django/FastAPI/Flask, Javascript/Nodejs
+- **Frontend**: React/Vite, Tailwind CSS, TypeScript, HTML, CSS
 - **Mobile**: Flutter (Cross-Platform)
-- **DevOps/Infra**: Docker, Firebase
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Testing**: Pytest, JUnit, Postman, Jest
+- **DevOps/Infra**: Docker, Firebase, AWS
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
+- **Testing/Documentation**: Pytest, JUnit, Postman, Jest, Swagger
 - **Practices**: Clean Architecture, Agile/CI, TDD
 
 ---
@@ -28,8 +28,11 @@
   _40% revenue growth and 100+ monthly bookings._  
   [Live Demo](https://fabhands-link.vercel.app/)
   
-- **🛒 RealMart Marketplace**  
-  Full-stack e-commerce marketplace with auth and role-based access  
+- **Consumer Data Ingestion System**  
+  Robust full-stack Django application to ingest, manage,
+  and query consumer data, featuring a scalable API with
+  filtering and offset-based pagination for handling large datasets.
+  
   
 
 ---
