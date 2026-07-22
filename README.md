@@ -26,9 +26,9 @@
 
 I build things that **ship, scale, and work in production.** Not just on localhost.
 
-I'm the founder and sole engineer behind **[HireJourney](https://hirejourney.xyz)** - a live, full-stack AI career platform with real users, real payment infrastructure, and 40+ production APIs built from scratch. No team. No co-founder. No shortcuts.
+I'm the founder and sole engineer behind **[HireJourney](https://hirejourney.xyz)** - a live, full-stack AI career platform with real users, real payment infrastructure, and 40+ production APIs built from scratch. Alongside it, I've shipped an AI-driven crypto trading bot, a full-stack e-commerce platform, and mobile apps for fintech and healthcare clients - independently and as part of engineering teams.
 
-Before that: backend engineer at a logistics/fintech startup, mobile intern at a UK fintech, and 1+ year freelancing for international clients. I've been delivering outcomes since before I had titles.
+Before HireJourney: backend engineer at a logistics/fintech startup, mobile intern at a UK fintech, and 1+ year freelancing for international clients. I've been delivering outcomes since before I had titles.
 
 > _I didn't get here through connections or pedigree. I earned it by learning fast, building fast, and shipping things that actually work._
 
@@ -77,7 +77,8 @@ stack = {
     "mobile":    ["Flutter (Android + iOS)"],
     "ai_ml":     ["LLM Integration · OpenRouter", "TensorFlow · AssemblyAI · YAMNet"],
     "infra":     ["Docker · Fly.io · Vercel · Render · Firebase · Cloudflare"],
-    "databases": ["PostgreSQL · MySQL · MongoDB · Redis (Upstash)"],
+    "databases": ["PostgreSQL · MySQL · MongoDB · Redis (Upstash) · Supabase"],
+    "orm":       ["Drizzle · SQLAlchemy · Alembic (migrations)"],
     "security":  ["JWT · OAuth2 · Spring Security · Rate Limiting"],
     "testing":   ["Pytest · JUnit · Jest · Postman · Swagger/OpenAPI"],
 }
@@ -86,6 +87,28 @@ stack = {
 ---
 
 ## 📂 Notable Projects
+
+---
+
+**📈 Crypto Signal Bot: AI-Driven Market Analysis on Telegram**
+
+> An automated trading signal bot that pulls live market data and financial news, then combines technical and fundamental analysis into a single output - delivered in real time through a Telegram bot interface.
+>
+> Technical signals are computed with a Pandas-driven EMA engine tracking crypto pairs, while an LLM (via OpenRouter/Claude) reads and scores sentiment from live news sources - CoinTelegraph, CoinDesk, ForexFactory - alongside funding-rate data pulled from CoinGecko and Binance. The two signals are merged into one recommendation and pushed straight to the user's Telegram.
+>
+> Not a wrapper around an API. A multi-source data pipeline with AI reasoning on top.
+
+`Python · FastAPI · Pandas · OpenRouter (Claude) · CoinGecko · Binance API · Redis · NeonDB · Docker · Fly.io`
+
+---
+
+**👟 Shoe Store E-Commerce Platform**
+
+> A full-stack e-commerce platform for a shoe retailer, built with a customer storefront and a separate admin dashboard for managing inventory, orders, and products end to end.
+>
+> Product imagery runs through Cloudinary for upload and delivery, and checkout is handled via Paystack - a complete buy-side and manage-side system, not just a storefront template.
+
+`Next.js · TypeScript · NeonDB · Drizzle ORM · Cloudinary · Paystack`
 
 ---
 
@@ -124,9 +147,17 @@ stack = {
 
 ---
 
+**📓 Trading Journal**
+
+> A personal tool for logging trades and tracking performance stats over time - built to answer a simple question honestly: am I actually improving, or does it just feel that way?
+
+`TypeScript · Drizzle ORM · Supabase`
+
+---
+
 ## 📌 About the repos
 
-Most of my production work, **including the full HireJourney codebase**, lives in private repositories. Client work is under NDA, and some earlier contributions were on internal platforms with no public commit trail.
+Most of my production work, **including the full HireJourney codebase**, lives in private repositories. Some client work is under NDA - including a fintech loan app (KYC + repayment flows) and a healthcare mobile app - and some earlier contributions were on internal platforms with no public commit trail.
 
 **What's public here is a fraction of what's been built and shipped.**
 
