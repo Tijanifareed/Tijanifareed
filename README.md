@@ -108,7 +108,7 @@ stack = {
 >
 > Product imagery runs through Cloudinary for upload and delivery, and checkout is handled via Paystack - a complete buy-side and manage-side system, not just a storefront template.
 
-`Next.js · TypeScript · NeonDB · Drizzle ORM · Cloudinary · Paystack`
+[`Live Demo →`](https://lamore-shoes.vercel.app/) | `Next.js · TypeScript · NeonDB · Drizzle ORM · Cloudinary · Paystack`
 
 ---
 
@@ -151,7 +151,7 @@ stack = {
 
 > A personal tool for logging trades and tracking performance stats over time - built to answer a simple question honestly: am I actually improving, or does it just feel that way?
 
-`TypeScript · Drizzle ORM · Supabase`
+[`Live Demo →`](https://my-trading-journal-hazel.vercel.app/) | `TypeScript · Drizzle ORM · Supabase`
 
 ---
 
