@@ -56,7 +56,7 @@ I work comfortably in existing codebases and from a blank repository. I learn qu
 ✦ Automated CI/CD                            ✦ PostgreSQL + Redis
 ```
 
-### Aria — Personalized AI Career Agent
+### Aria - Personalized AI Career Agent
 
 Aria isn't just a chatbot sitting beside the application.
 
@@ -135,7 +135,7 @@ stack = {
 
 ## 📂 Notable Projects
 
-### 📈 Crypto Signal Agent — Adaptive AI Market Analysis
+### 📈 Crypto Signal Agent - Adaptive AI Market Analysis
 
 > An AI-driven trading-analysis agent that combines live market data, financial news, technical indicators, funding data, and the outcomes of previous signals to generate, evaluate, and refine subsequent trading analyses.
 
@@ -161,7 +161,7 @@ Built the customer-facing shopping experience alongside the management workflows
 
 ---
 
-### 🦻 CommsBridge — AI Assistive Mobile App
+### 🦻 CommsBridge - AI Assistive Mobile App
 
 > An assistive mobile application designed to help hearing-impaired users follow conversations and identify potential hazards in their environment.
 
@@ -173,7 +173,7 @@ The audio-processing pipeline was optimized to reduce processing time by approxi
 
 ---
 
-### 💄 Fabhands — Client Acquisition Platform
+### 💄 Fabhands - Client Acquisition Platform
 
 > A client acquisition platform built for a UK-based freelance makeup artist, replacing repetitive pricing and availability conversations across DMs and WhatsApp with a single shareable experience.
 
@@ -210,27 +210,27 @@ The API supports multi-field filtering and offset-based pagination, with ingesti
 
 ## 💼 Experience
 
-### Semicolon Labs — Software Engineer
+### Semicolon Labs - Software Engineer
 **August 2026 – Present**
 
 Working across 3 production products in a shared pnpm monorepo, building responsive Next.js interfaces, translating Figma designs into production-ready components, integrating REST APIs, and contributing through GitHub pull requests and code reviews.
 
-### HireJourney — Founder & Solo Engineer
+### HireJourney - Founder & Solo Engineer
 **October 2025 – Present**
 
 Built and operate the platform end to end across frontend, backend, AI systems, payments, browser extension, and infrastructure.
 
-### Meerge Africa — Backend Developer
+### Meerge Africa - Backend Developer
 **May 2025 – June 2025**
 
 Built and maintained 25+ REST APIs supporting logistics, orders, payments, and KYC workflows, including Paystack integrations, Redis caching, OTP authentication, testing, and CI/CD.
 
-### 3ribe — Mobile Developer
+### 3ribe - Mobile Developer
 **February 2025 – April 2025**
 
 Worked on a Flutter-based mobile application, improving responsive interfaces and the overall user experience.
 
-### Semicolon Africa — Software Engineering Fellow
+### Semicolon Africa - Software Engineering Fellow
 **February 2024 – February 2025**
 
 Built backend systems and REST APIs for web and mobile applications while contributing to sprint planning, code reviews, testing, and mentoring.
@@ -253,7 +253,7 @@ I'm gradually building more in public through open-source projects, technical wr
 
 ## 🤖 How I Build
 
-I use AI as part of my normal engineering workflow — not as a replacement for understanding the code.
+I use AI as part of my normal engineering workflow, not as a replacement for understanding the code.
 
 I use it to:
 
