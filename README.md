@@ -155,7 +155,7 @@ Signals are delivered in real time through Telegram.
 
 Built the customer-facing shopping experience alongside the management workflows, with Cloudinary handling product imagery and Paystack powering online payments.
 
-[`Live Demo →`](https://lamore-shoes.vercel.app/)
+[`Live Demo →`](https://lamore.com.ng)
 
 `Next.js · TypeScript · PostgreSQL · Drizzle ORM · Cloudinary · Paystack`
 
